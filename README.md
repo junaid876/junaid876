@@ -74,16 +74,6 @@ A SQL-focused analysis project exploring sales & customer datasets.
 
 ---
 
-## 📈 Quick Stats & Links
-
-[![Followers](https://img.shields.io/github/followers/junaid876?label=Followers&style=flat-square)](https://github.com/junaid876?tab=followers)
-[![Public Repos](https://img.shields.io/github/repo-count/junaid876?label=Public%20Repos&style=flat-square)](https://github.com/junaid876?tab=repositories)
-[![Stars](https://img.shields.io/github/stars/junaid876?label=Total%20Stars&style=flat-square)](https://github.com/junaid876?tab=stars)
-[![Top language](https://img.shields.io/github/languages/top/junaid876?style=flat-square)](https://github.com/junaid876)
-
-
----
-
 ## 📫 Connect with Me
 🔗 LinkedIn: **https://www.linkedin.com/in/junaid-mohammad-32a29b368/**  
 ✉️ Email: **mdjunaid34343@gmail.com**
