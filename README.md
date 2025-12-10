@@ -73,6 +73,7 @@ A SQL-focused analysis project exploring sales & customer datasets.
 **Tools:** Power BI, Excel, Jupyter Notebook, Git, GitHub  
 
 ---
+
 ## 📈 GitHub Stats
 
 ![Junaid's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=junaid876&show_icons=true&theme=tokyonight)
