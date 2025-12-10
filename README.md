@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Mohammed Junaid**
+# 👋 Hi, I'm **Mohammad Junaid**
 🎓 B.E. in Computer Science (Data Science)  
 📍 Hyderabad, Telangana, India  
 
@@ -73,12 +73,12 @@ A SQL-focused analysis project exploring sales & customer datasets.
 **Tools:** Power BI, Excel, Jupyter Notebook, Git, GitHub  
 
 ---
-
 ## 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=junaid876&show_icons=true&theme=radical" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaid876&layout=compact&theme=radical" height="160px"/>
-</p>
+
+![Junaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=junaid876&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junaid876&layout=compact&theme=tokyonight)
+
 
 ---
 
