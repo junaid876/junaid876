@@ -90,8 +90,8 @@ A SQL-focused analysis project exploring sales & customer datasets.
 ---
 
 ## 📫 Connect with Me
-🔗 LinkedIn: **https://www.linkedin.com/in/junaid-mohammad-32a29b368/**  
-✉️ Email: **mdjunaid34343@gmail.com**
+- 💼 [LinkedIn] (https://www.linkedin.com/in/junaid-mohammad-32a29b368) 
+- ✉️ [Email](mdjunaid34343@gmail.com)
 
 ---
 
