@@ -75,10 +75,9 @@ A SQL-focused analysis project exploring sales & customer datasets.
 ---
 ## 📈 GitHub Stats
 
-![Junaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=junaid876&show_icons=true&theme=tokyonight)
+![Junaid's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=junaid876&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junaid876&layout=compact&theme=tokyonight)
-
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=junaid876&layout=compact&theme=tokyonight)
 
 ---
 
