@@ -1,60 +1,92 @@
-# 👋 Hi, I’m <Your Name or Username>  
+# 👋 Hi, I'm **Mohammed Junaid**
+🎓 B.E. in Computer Science (Data Science)  
+📍 Hyderabad, Telangana, India  
 
-## 🔭 About Me  
-I’m a passionate developer/data-analyst/enthusiast (you can pick what describes you best).  
-I love working with data, creating dashboards & visualizations, solving real-world problems, and continuously learning new technologies.  
-
-- 🌱 Currently exploring / learning: <e.g. Power BI, SQL, Python, Data Visualization, Web Development, etc.>  
-- 💡 I’m interested in: data-driven insights, business intelligence, analytics projects, automation, and more.  
-- 📫 How to reach me: <Link to your email / LinkedIn / social profile / portfolio>  
-- ⚡ Fun fact: <One fun fact about you — e.g. “I used to build LEGO models as a kid and now build dashboards”>  
+I’m a data-driven problem solver passionate about building intelligent systems, analyzing real-world datasets, and creating solutions that turn raw information into meaningful impact. My work spans AI, machine learning, data visualization, and analytics automation.
 
 ---
 
-## 🛠️ Skills & Tools  
+## 🚀 Featured Projects
 
-| Category               | Tools / Languages / Frameworks |
-|------------------------|-------------------------------|
-| Data Analysis / BI     | Power BI, Excel, SQL, DAX     |
-| Programming / Scripting| Python, Java / Java basics    |
-| Visualization          | Charts, Reports, Dashboards   |
-| Other Tools            | <Any other tools you use>     |
+### 🔥 **AI-Powered Surveillance System for Abnormal Activity Detection**
+Real-time intelligent surveillance using deep learning to detect abnormal human behavior.  
+This project uses a **Spatial-Temporal AutoEncoder (STAE)** trained on normal actions and flags anomalies in video streams based on prediction loss.
 
-> 💼 If you want to highlight skills visually, you could add icons/badges (optional) using Markdown or tools like shields.io.  
-
----
-
-## 📂 Featured Projects  
-
-Here are some repositories/projects I’ve worked on — feel free to explore them 👇  
-
-| Project | Description |
-|--------|-------------|
-| **Power-BI Sales Dashboard** | A complete sales-analysis dashboard built using Power BI — showing sales trends, region-wise performance, KPI metrics, and interactive reports. |
-| <Another Project Name> | <Short description of what you did / built>. |
-| <Another Project Name> | <Short description>. |
-
-> ⚠️ I commit code & dashboards regularly — you can check out my repo list or pinned projects for more.  
+**Tech Stack:** Python, OpenCV, Keras (CNN, ConvLSTM, Conv3DTranspose), NumPy, Tkinter, PIL, imutils  
+**Key Features:**
+- Preprocess & normalize surveillance frames  
+- Train STAE model using Conv3D & ConvLSTM  
+- Detect abnormal events in real time  
+- GUI-based interface  
+- Alerts for abnormal human activities (running, violence, etc.)
 
 ---
 
-## 📈 GitHub Stats  
+### 🛡️ **Prediction of SQL Injection Attacks**
+A machine-learning mini-project exploring predictive detection of SQL injection attempts.  
+Includes dataset preprocessing, training experiments, and documentation for attack-pattern learning and classification.
 
-<!-- You can generate dynamic stats cards using services like GitHub Readme Stats or other widgets. Example below: -->  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaid876&show_icons=true&theme=github_dark)  
-
----
-
-## 📫 Contact & Connect  
-
-- LinkedIn: [Your-LinkedIn-URL]  
-- Email: [Your-Email]  
-- Other: [Portfolio / Website / Social / Blog — if any]  
+**Files include:** abstract, preprocessing notes, initial ML pipeline design.
 
 ---
 
-## 🎯 My Goal  
+### 📈 **Power BI Sales Dashboard**
+Developed a professional Power BI dashboard to analyze shipping performance, customer profitability, and product insights.  
+Utilized **DAX measures, custom visuals, slicers, filters**, and clean storytelling layouts to help stakeholders explore trends effortlessly.
 
-I’m building my profile as a data-focused developer/analyst. I aim to deliver clean, understandable, and impactful dashboards & tools.  
-If you want to collaborate, discuss data, BI or development — I’m just a message away 😊  
+**Highlights:**  
+- Profitability & shipping KPIs  
+- Region-wise & segment-wise insights  
+- Interactive drilldowns  
+- Clean, business-ready visualization design
+
+---
+
+### 📊 **Excel Data Cleaning & Reporting Project**
+A complete Excel-based data-cleaning and reporting workflow using real-world datasets.
+
+**Project Overview:**  
+- Cleaned inconsistent, missing, and duplicated data  
+- Built pivot tables for insightful summaries  
+- Created charts and dashboards  
+- Designed filters for interactive exploration  
+
+**Skills Applied:** Data validation, pivot tables, Excel functions, reporting, dashboarding  
+**Files:** Cleaned dataset, pivot table screenshots, dashboard visuals
+
+---
+
+### 🗄️ **SQL Analysis Project (Ongoing)**
+A SQL-focused analysis project exploring sales & customer datasets.
+
+**Focus Areas:**  
+- Joins & relational analysis  
+- Window functions  
+- Subqueries  
+- Query optimization & performance tuning  
+
+---
+
+## 🧰 Technical Skills
+**Languages:** Python, SQL, DAX  
+**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib  
+**Tools:** Power BI, Excel, Jupyter Notebook, Git, GitHub  
+
+---
+
+## 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=junaid876&show_icons=true&theme=radical" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaid876&layout=compact&theme=radical" height="160px"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+🔗 LinkedIn: **https://www.linkedin.com/in/junaid-mohammad-32a29b368/**  
+✉️ Email: **mdjunaid34343@gmail.com**
+
+---
+
+⭐ *Thanks for visiting! Feel free to check out my work or reach out for collaboration.*  
+“**Always learning. Always building. Always improving.**” 🌱
